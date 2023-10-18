@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Muidam2</string>
+    <string name="welcome_back">Welcome Back, </string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="show_password">Show Password\n</string>
+    <string name="or">or</string>
+
+    <string name="enter_email">Enter Email</string>
+
+    <string name="no_account_yet_msg">No Account yet? Sign Up Here.</string>
+
+</resources>
